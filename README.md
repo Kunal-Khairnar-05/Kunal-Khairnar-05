@@ -10,18 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: # 
   🔗 Socials
-  [![GitHub Kunal Khairar](https://img.shields.io/github/followers/kunalkhairnar?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/kunalkhairnar)
-<!--   [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpawarp@gmail.com)
 
-<!--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashppawar/)
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pawaryashp/) -->
-  <!-- [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yashppawar) -->
-   Email: yashpawarp@gmail.com -->
-   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 📈 Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&locale=en&theme=dark" alt="Kunal-Khairnar-05" />
 
