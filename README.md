@@ -1,5 +1,5 @@
 <center>
-  <h1> Hi there, it's Kunal Khairnar here... 👋</h1>
+  <h1> Hi, it's Kunal Khairnar here... 👋</h1>
 
 
 <!-- **Kunal-Khairnar-05/Kunal-Khairnar-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
