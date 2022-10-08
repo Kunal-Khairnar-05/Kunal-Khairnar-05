@@ -1,7 +1,6 @@
 <center>
   <h1> Hi, it's Kunal Khairnar here... 👋</h1>
 
-
 <!-- **Kunal-Khairnar-05/Kunal-Khairnar-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started: -->
@@ -11,10 +10,14 @@ Here are some ideas to get you started: -->
 - 🎨 Like to draw and paint, leads me to code in creative way.
 <br><br>
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++ | Python | JavaScript | HTML | CSS | Bootstrap | ReactJS
 - 🌐 &nbsp; Git | GitHub | GitLab | Heroku 
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br>
 
@@ -37,7 +40,6 @@ Here are some ideas to get you started: -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal-Khairnar-05&layout=compact&langs_count=8&theme=algolia"/>
 
 ## Languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kunal-Khairnar-05&show_icons=true&locale=en&layout=compact&theme=dark" alt="Kunal-Khairnar-05" />
 
 [![C](https://img.shields.io/badge/C-Basics%20%26%20Learning-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)  
@@ -48,15 +50,8 @@ Here are some ideas to get you started: -->
 [![React](https://img.shields.io/badge/React-Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Git](https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Basics-181717?style=for-the-badge&logo=github&logoColor=white)](
+![GitHub](https://img.shields.io/badge/GitHub-Basics-181717?style=for-the-badge&logo=github&logoColor=white)
 <br><br>
-
-## 🔝 Most used languages
-
-<p align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-khairnar-05&layout=compact&hide_border=true&theme=radical" />
-</p>
-
 
 # 🔧 Tools 
 
@@ -66,27 +61,6 @@ Here are some ideas to get you started: -->
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-22A6F2?style=for-the-badge&logo=visualstudio)](https://code.visualstudio.com/)
 <br><br>
 
-
-## 💻 PC
-[![Windows](https://img.shields.io/badge/Windows-laptop-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/en/windows/)<br><br>
-
-## 📈 Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&locale=en&theme=dark" alt="Kunal-Khairnar-05" />
-<br>
-
-## 📊 Weekly Stats
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-## 📊 Monthly Stats
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Khairnar-05&theme=dark" alt="Kunal-Khairnar-05" />  
 <br>
 <p align="center">
@@ -94,5 +68,6 @@ No Activity tracked this Week
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Khairnar-05&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
     </a>
 </p>
+
 
 
