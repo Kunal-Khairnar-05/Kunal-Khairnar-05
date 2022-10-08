@@ -1,6 +1,8 @@
 <center>
-  <h1> Hi, it's Kunal Khairnar here... 👋</h1>
+<h1> Hi, it's Kunal Khairnar here... 👋</h1>
 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You%20can%20call%20me%20Sinix.;%20A%20Computer%20Science%20Student&font=Comfortaa)
 <!-- **Kunal-Khairnar-05/Kunal-Khairnar-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started: -->
@@ -12,7 +14,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3>🛠 Tech Stack</h3>
+<h1>🛠 Tech Stack</h1>
 
 - 💻 &nbsp; C | C++ | Python | JavaScript | HTML | CSS | Bootstrap | ReactJS
 - 🌐 &nbsp; Git | GitHub | GitLab | Heroku 
@@ -21,7 +23,7 @@ Here are some ideas to get you started: -->
 
 <br>
 
-<h3>📫 How to reach me</h3>
+<h1>📫 How to reach me</h1>
 
 
 ## 🔗 Socials
@@ -32,7 +34,7 @@ Here are some ideas to get you started: -->
 [![Twitter](https://img.shields.io/twitter/follow/KhairnarKunal?style=for-the-badge&logo=twitter&logoColor=white&labelColor=333333)](https://twitter.com/KhairnarKunal)
  <br><br>
 
-<h3>📈 GitHub Stats</h3>
+<h1>📈 GitHub Stats</h1>
 
 <p align="center">
 <a href="">
