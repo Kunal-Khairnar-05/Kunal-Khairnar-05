@@ -31,6 +31,9 @@ Here are some ideas to get you started: -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-khairnar-63b5b522a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_hairnar.k_unal05/)
 [![GitHub Kunal Khiarnar](https://img.shields.io/github/followers/Kunal-Khairnar-05?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Kunal-Khairnar-05)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Kunal-Khairnar-05">
+</a>
 [![Twitter](https://img.shields.io/twitter/follow/KhairnarKunal?style=for-the-badge&logo=twitter&logoColor=white&labelColor=333333)](https://twitter.com/KhairnarKunal)
  <br><br>
 
