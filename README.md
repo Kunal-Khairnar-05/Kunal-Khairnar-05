@@ -48,15 +48,17 @@ Here are some ideas to get you started: -->
 
 [![C](https://img.shields.io/badge/C-Basics%20%26%20Learning-00427E?style=for-the-badge&logo=c&logoColor=white)]() 
 [![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)  
-[![HTML](https://img.shields.io/badge/HTML-Basics-DD4A24?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
-[![CSS](https://img.shields.io/badge/CSS-Basics-254BDD?style=for-the-badge&logo=css3)](https://www.w3schools.com/css/default.asp)
-[![Javascript](https://img.shields.io/badge/Javascript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.w3schools.com/js/default.asp)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-Basics-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![React](https://img.shields.io/badge/React-Basics-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-Basics-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Git](https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-![GitHub](https://img.shields.io/badge/GitHub-Basics-181717?style=for-the-badge&logo=github&logoColor=white)
-<br><br>
+<br>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+   
 
 # 🔧 Tools 
 
