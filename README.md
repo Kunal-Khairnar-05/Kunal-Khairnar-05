@@ -14,10 +14,9 @@ Here are some ideas to get you started: -->
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1>🛠 Tech Stack</h1>
+# 🏅 My Badges 🏅
 
-- 💻 &nbsp; C | C++ | Python | JavaScript | HTML | CSS | Bootstrap | ReactJS
-- 🌐 &nbsp; Git | GitHub | GitLab | Heroku 
+[![@kunal_khairnar's Holopin board](https://holopin.me/kunal_khairnar)](https://holopin.io/@kunal_khairnar)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -36,6 +35,8 @@ Here are some ideas to get you started: -->
 </a>
 [![Twitter](https://img.shields.io/twitter/follow/KhairnarKunal?style=for-the-badge&logo=twitter&logoColor=white&labelColor=333333)](https://twitter.com/KhairnarKunal)
  <br><br>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1>📈 GitHub Stats</h1>
 
