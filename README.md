@@ -17,7 +17,6 @@ Here are some ideas to get you started: -->
 # 🏅 My Badges 🏅
 
 [![@kunal_khairnar's Holopin board](https://holopin.me/kunal_khairnar)](https://holopin.io/@kunal_khairnar)
-
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <br>
