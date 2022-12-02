@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Kunal-Khairnar-05">
 </a>
-[![Twitter](https://img.shields.io/twitter/follow/KhairnarKunal?style=for-the-badge&logo=twitter&logoColor=white&labelColor=333333)](https://twitter.com/KhairnarKunal)
+[![Twitter](https://img.shields.io/twitter/follow/KunalKhairnar_?style=for-the-badge&logo=twitter&logoColor=white&labelColor=333333)]([https://twitter.com/KunalKhairnar_])
  <br><br>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
