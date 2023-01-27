@@ -6,7 +6,7 @@
 <!-- **Kunal-Khairnar-05/Kunal-Khairnar-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started: -->
-- 🌱 I’m currently learning C programming language <br>
+- 🌱 I’m currently learning Computer Languages <br>
 - 🔎 Like to understand scene behind complex things.   
 - 📖 Currently persuing Computer Engineering. <br>
 - 🎨 Like to draw and paint, leads me to code in creative way.
