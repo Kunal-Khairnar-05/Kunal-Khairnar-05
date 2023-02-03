@@ -70,11 +70,3 @@ Here are some ideas to get you started: -->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Khairnar-05&theme=dark" alt="Kunal-Khairnar-05" />  
 <br>
-<p align="center">
-    <a href="https://github.com/Kunal-Khairnar-05">
-    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Kunal-Khairnar-05&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
-    </a>
-</p>
-
-
-
