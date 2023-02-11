@@ -47,6 +47,7 @@ Here are some ideas to get you started: -->
 ## Languages
 
 [![C](https://img.shields.io/badge/C-Primary_Language-3776AB?style=for-the-badge&logo=c&logoColor=white)]() 
+
 [![Python](https://img.shields.io/badge/Python-Basics%20%26%20Learning-00427E?style=for-the-badge&logo=python)](https://www.python.org/)  
 <br>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
