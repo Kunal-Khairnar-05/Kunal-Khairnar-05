@@ -66,8 +66,8 @@ Here are some ideas to get you started: -->
 [![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)  
-[![Visual Studio Code](https://th.bing.com/th/id/OIP.zfG8FW1Z61TDDwJjGR2T-AAAAA?rs=1&pid=ImgDetMain)](https://code.visualstudio.com/)
-<br><br>
+
+<br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Khairnar-05&theme=dark" alt="Kunal-Khairnar-05" />  
 <br>
