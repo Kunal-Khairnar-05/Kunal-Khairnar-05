@@ -66,7 +66,15 @@ Here are some ideas to get you started: -->
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)  
 
-<br>
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!---
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Khairnar-05&theme=dark" alt="Kunal-Khairnar-05" />  
 <br>
+ img src="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/snake.svg" alt="Snake animation" />
+--->
+
+![snake animation](https://github.com/Kunal-Khairnar-05/Kunal-Khairnar-05/blob/output/github-contribution-grid-snake2.svg)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ <img src="https://profile-counter.glitch.me/Kunal-Khairnar-05/count.svg?"  />
