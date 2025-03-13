@@ -54,8 +54,6 @@ Here are some ideas to get you started: -->
 <br>
  img src="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/snake.svg" alt="Snake animation" />
 --->
+<img src="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/snake.svg" alt="Snake animation" />
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/github-snake.svg" />
 <img src="https://profile-counter.glitch.me/Kunal-Khairnar-05/count.svg?"/>
