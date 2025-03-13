@@ -1,5 +1,7 @@
 <center>
-<h1> Hi, it's Kunal Khairnar here... 👋</h1>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+<h1> Hey, Kunal Khairnar here... 🚀🌌</h1>
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You%20can%20call%20me%20Sinix.;%20A%20Computer%20Science%20Student&font=Comfortaa)
@@ -43,28 +45,8 @@ Here are some ideas to get you started: -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal-Khairnar-05&layout=compact&langs_count=8&theme=algolia"/>
 
 ## Languages
-
-[![C](https://img.shields.io/badge/C-Primary_Language-3776AB?style=for-the-badge&logo=c&logoColor=white)]() 
-
-[![Python](https://img.shields.io/badge/Python-Basics%20%26%20Learning-00427E?style=for-the-badge&logo=python)](https://www.python.org/)  
-<br>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-     <a href="https://www.java.com" target="_blank"> <img src="https://th.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=80&h=80&o=6&dpr=2&pid=5.1" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+   <img src="https://img.icons8.com/color/48/000000/c.png"/> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>   <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://th.bing.com/th?id=OIP.ANfN008bhlikSHWZAaVXSAHaHa&w=80&h=80&o=6&dpr=2&pid=5.1" width="48" height="48"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
    
-
-# 🔧 Tools 
-
-[![Git](https://img.shields.io/badge/Git-FF5611?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-4C4C4C?style=for-the-badge&logo=pycharm)](https://www.jetbrains.com/pycharm/)  
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!---
@@ -73,8 +55,7 @@ Here are some ideas to get you started: -->
  img src="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/snake.svg" alt="Snake animation" />
 --->
 
-![snake animation](https://github.com/Kunal-Khairnar-05/Kunal-Khairnar-05/blob/output/github-contribution-grid-snake2.svg)
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
- <img src="https://profile-counter.glitch.me/Kunal-Khairnar-05/count.svg?"  />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/Kunal-Khairnar-05/Kunal-Khairnar-05/output/github-snake.svg" />
+<img src="https://profile-counter.glitch.me/Kunal-Khairnar-05/count.svg?"/>
