@@ -3,7 +3,7 @@
 <br>
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <br>
-<h1> Hey, Kunal Khairnar here... 🚀🌌</h1>
+<h1> Hey, Kunal Khairnar here... 👋🏻</h1>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You%20can%20call%20me%20Sinix.;%20A%20Computer%20Science%20Student&font=Comfortaa)
@@ -26,8 +26,6 @@ Here are some ideas to get you started: -->
 
 <h1>📫 How to reach me</h1>
 
-
-## 🔗 Socials
 [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalkhairnar2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-khairnar-63b5b522a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_hairnar.k_unal05/)
@@ -46,9 +44,10 @@ Here are some ideas to get you started: -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal-Khairnar-05&layout=compact&langs_count=8&theme=algolia"/>
 
-## Languages
- <img width="1584" height="396" alt="Copy of LinkedIn_Banner" src="https://github.com/user-attachments/assets/0a3d695e-f7b7-4855-bd98-2335c82cb859" />
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
+<img width="1584" height="396" alt="Copy of LinkedIn_Banner" src="https://github.com/user-attachments/assets/db9506cf-6b9d-4d49-9dd1-9670c564058f" />
+<br>
    
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
