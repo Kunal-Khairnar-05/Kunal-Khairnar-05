@@ -5,10 +5,10 @@
   <img src="./assets/light/header.svg" width="100%" alt="Kunal Khairnar, Computer Engineering student" />
 </picture>
 
-<a href="mailto:kunalkhairnar2005@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-email.svg" /><img src="./assets/light/btn-email.svg" height="60" alt="Email" /></picture></a>
-<a href="https://www.linkedin.com/in/kunal-khairnar-63b5b522a"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-linkedin.svg" /><img src="./assets/light/btn-linkedin.svg" height="60" alt="LinkedIn" /></picture></a>
-<a href="https://www.instagram.com/k_hairnar.k_unal05/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-instagram.svg" /><img src="./assets/light/btn-instagram.svg" height="60" alt="Instagram" /></picture></a>
-<a href="https://github.com/Kunal-Khairnar-05"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-github.svg" /><img src="./assets/light/btn-github.svg" height="60" alt="GitHub" /></picture></a>
+<a href="mailto:kunalkhairnar2005@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-email.svg" /><img src="./assets/light/btn-email.svg" height="52" alt="Email" /></picture></a>
+<a href="https://www.linkedin.com/in/kunal-khairnar-63b5b522a"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-linkedin.svg" /><img src="./assets/light/btn-linkedin.svg" height="52" alt="LinkedIn" /></picture></a>
+<a href="https://www.instagram.com/k_hairnar.k_unal05/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-instagram.svg" /><img src="./assets/light/btn-instagram.svg" height="52" alt="Instagram" /></picture></a>
+<a href="https://github.com/Kunal-Khairnar-05"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dark/btn-github.svg" /><img src="./assets/light/btn-github.svg" height="52" alt="GitHub" /></picture></a>
 
 <br><br>
 
