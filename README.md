@@ -6,8 +6,6 @@
 
 <p align="center"><img src="./assets/light/tech-stack.svg" width="100%" alt="Tools I use: Python, Java, C++, JavaScript, HTML5, CSS3, Solidity, MySQL, React, Next.js, Flutter, Android, MongoDB, Firebase, Docker, AWS, TensorFlow, scikit-learn, pandas, NumPy, ONNX, Git, GitHub, Vercel" /></p>
 
-<p align="center"><img src="./assets/light/contributions.svg" width="100%" alt="Contribution grid for the last 12 months" /></p>
-
 <p align="center"><a href="https://holopin.io/@kunal_khairnar"><img src="./assets/light/badges.svg" width="100%" alt="@kunal_khairnar's Holopin badge board" /></a></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Kunal-Khairnar-05&style=flat-square&color=5b5e67&label=profile+views" alt="Profile views" /></p>
