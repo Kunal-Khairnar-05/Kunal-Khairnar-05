@@ -24,8 +24,8 @@ Computer Engineering student. I like taking complex systems apart to understand 
 -->
 
 <p>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal-Khairnar-05&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kunal-Khairnar-05&theme=transparent" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kunal-Khairnar-05&theme=transparent" alt="Top languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=Kunal-Khairnar-05&theme=transparent&hide_border=true" alt="GitHub streak" />
