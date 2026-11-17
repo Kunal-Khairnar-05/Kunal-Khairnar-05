@@ -16,10 +16,12 @@ Computer Engineering student. I like taking complex systems apart to understand 
 
 ## Contributions
 
+<!-- 3D contribution chart: remove these comment markers once the GitHub-Profile-3D-Contrib workflow has run successfully.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
   <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution chart" />
 </picture>
+-->
 
 <p>
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" />
