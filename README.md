@@ -1,57 +1,35 @@
-<center>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br>
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- <br>
-<h1> Hey, Kunal Khairnar here... 👋🏻</h1>
+# Kunal Khairnar
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You%20can%20call%20me%20Sinix.;%20A%20Computer%20Science%20Student&font=Comfortaa)
-<!-- **Kunal-Khairnar-05/Kunal-Khairnar-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started: -->
-- 🔎 Like to understand scene behind complex things.   
-- 📖 Currently persuing Computer Engineering. <br>
-- 🎨 Like to draw and paint, leads me to code in creative way.
-<br><br>
+Computer Engineering student. I like taking complex systems apart to understand how they work underneath. I also draw and paint, and that background shapes how I approach design and problem solving in code.
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+[Email](mailto:kunalkhairnar2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kunal-khairnar-63b5b522a) · [Instagram](https://www.instagram.com/k_hairnar.k_unal05/) · `sinix`
 
-# 🏅 My Badges 🏅
+## Tech stack
+
+<img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,solidity,mysql,react,nextjs,flutter,androidstudio,mongodb,firebase,docker,aws,tensorflow,sklearn,git,github,vercel&perline=11" alt="Python, Java, C++, JavaScript, HTML, CSS, Solidity, MySQL, React, Next.js, Flutter, Android, MongoDB, Firebase, Docker, AWS, TensorFlow, scikit-learn, Git, GitHub, Vercel" />
+
+| | |
+|---|---|
+| **Languages** | Python · Java · C++ · JavaScript · HTML · CSS · SQL · Solidity |
+| **Apps and cloud** | React · Next.js · Flutter · Android · MongoDB · Firebase · Docker · AWS · Vercel |
+| **Machine learning** | TensorFlow · scikit-learn · pandas · NumPy · ONNX Runtime |
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution chart" />
+</picture>
+
+<p>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal-Khairnar-05&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=Kunal-Khairnar-05&theme=transparent&hide_border=true" alt="GitHub streak" />
+
+## Badges
 
 [![@kunal_khairnar's Holopin board](https://holopin.me/kunal_khairnar)](https://holopin.io/@kunal_khairnar)
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<br>
-
-<h1>📫 How to reach me</h1>
-
-[![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalkhairnar2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-khairnar-63b5b522a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_hairnar.k_unal05/)
-[![GitHub Kunal Khiarnar](https://img.shields.io/github/followers/Kunal-Khairnar-05?label=follow&style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/Kunal-Khairnar-05)
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Kunal-Khairnar-05">
-</a>
- <br><br>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h1>📈 GitHub Stats</h1>
-
-<p align="center">
-<a href="">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kunal-Khairnar-05&layout=compact&langs_count=8&theme=algolia"/>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br><br>
-<img width="1584" height="396" alt="Copy of LinkedIn_Banner" src="https://github.com/user-attachments/assets/db9506cf-6b9d-4d49-9dd1-9670c564058f" />
-<br>
-   
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Khairnar-05&theme=dark" alt="Kunal-Khairnar-05" />  
-
+<sub><img src="https://komarev.com/ghpvc/?username=Kunal-Khairnar-05&style=flat-square&color=555555&label=profile+views" alt="Profile views" /></sub>
