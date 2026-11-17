@@ -8,7 +8,7 @@ Computer Engineering student. I like taking complex systems apart to understand 
 
 <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,solidity,mysql,react,nextjs,flutter,androidstudio,mongodb,firebase,docker,aws,tensorflow,sklearn,git,github,vercel&perline=11" alt="Python, Java, C++, JavaScript, HTML, CSS, Solidity, MySQL, React, Next.js, Flutter, Android, MongoDB, Firebase, Docker, AWS, TensorFlow, scikit-learn, Git, GitHub, Vercel" />
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | Python · Java · C++ · JavaScript · HTML · CSS · SQL · Solidity |
 | **Apps and cloud** | React · Next.js · Flutter · Android · MongoDB · Firebase · Docker · AWS · Vercel |
