@@ -12,7 +12,7 @@
 
 <p align="center"><img src="./assets/light/tech-stack.svg" width="100%" alt="Tools I use: Python, Java, C++, JavaScript, HTML5, CSS3, Solidity, MySQL, React, Next.js, Flutter, Android, MongoDB, Firebase, Docker, AWS, TensorFlow, scikit-learn, pandas, NumPy, ONNX, Git, GitHub, Vercel" /></p>
 
-<p align="center"><img src="./assets/light/activity.svg" width="100%" alt="GitHub activity as of 18 Nov 2026: 19 day streak, 2,556 total contributions, 714 commits, 218 pull requests, 72 repositories, 19 days longest streak, 103 busiest day" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Kunal-Khairnar-05&hide_border=true&border_radius=28&background=e8e9ec&stroke=d3d5da&ring=0b0b0d&fire=0b0b0d&currStreakNum=0b0b0d&sideNums=0b0b0d&currStreakLabel=5b5e67&sideLabels=5b5e67&dates=7c7f88" width="49.4%" alt="Total contributions, current streak and longest streak" /> <img src="https://github-readme-stats.vercel.app/api?username=Kunal-Khairnar-05&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=28&card_width=495&custom_title=GitHub+stats&bg_color=e8e9ec&title_color=0b0b0d&text_color=5b5e67&icon_color=0b0b0d" width="49.4%" alt="GitHub stats: stars, commits, pull requests, issues and repositories contributed to" /></p>
 
 <p align="center"><a href="https://holopin.io/@kunal_khairnar"><img src="./assets/light/badges.svg" width="100%" alt="@kunal_khairnar's Holopin badge board" /></a></p>
 
