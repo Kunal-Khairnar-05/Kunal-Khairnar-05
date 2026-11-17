@@ -12,6 +12,8 @@
 
 <p align="center"><img src="./assets/light/tech-stack.svg" width="100%" alt="Tools I use: Python, Java, C++, JavaScript, HTML5, CSS3, Solidity, MySQL, React, Next.js, Flutter, Android, MongoDB, Firebase, Docker, AWS, TensorFlow, scikit-learn, pandas, NumPy, ONNX, Git, GitHub, Vercel" /></p>
 
+<p align="center"><img src="./assets/light/activity.svg" width="100%" alt="GitHub activity as of 18 Nov 2026: 19 day streak, 2,556 total contributions, 714 commits, 218 pull requests, 72 repositories, 19 days longest streak, 103 busiest day" /></p>
+
 <p align="center"><a href="https://holopin.io/@kunal_khairnar"><img src="./assets/light/badges.svg" width="100%" alt="@kunal_khairnar's Holopin badge board" /></a></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Kunal-Khairnar-05&style=flat-square&color=5b5e67&label=profile+views" alt="Profile views" /></p>
